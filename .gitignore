@@ -1,0 +1,12 @@
+
+*.bin
+*.lock
+.idea/compiler.xml
+.idea/copyright/profiles_settings.xml
+.idea/gradle.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+build/android-profile/profile-2018-06-30-20-27-21-020.rawproto
+build/intermediates/dex-cache/cache.xml
+*.rawproto
