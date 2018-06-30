@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="NormalForm">
+        <attr name="nf_left_text" format="string" />
+        <attr name="nf_right_text" format="string" />
+
+        <attr name="nf_left_icon" format="reference" />
+
+        <attr name="nf_show_top_line" format="boolean" />
+        <attr name="nf_show_bottom_line" format="boolean" />
+        <attr name="nf_show_right_arrow" format="boolean" />
+        <attr name="nf_cut_bottom_line" format="boolean" />
+        <attr name="nf_cut_top_line" format="boolean" />
+    </declare-styleable>
+
+    <declare-styleable name="TitleBar">
+        <attr name="tb_title" format="string" />
+        <attr name="tb_show_back" format="boolean" />
+        <attr name="tb_show_bottom_line" format="boolean" />
+
+        <attr name="tb_bg_color" format="color" />
+        <attr name="tb_title_color" format="color" />
+        <attr name="tb_arrow_icon" format="reference" />
+    </declare-styleable>
+
+
+    <declare-styleable name="FromItem">
+        <attr name="fi_left_text" format="string" />
+        <attr name="fi_right_text" format="string" />
+
+        <attr name="fi_show_arrow" format="boolean" />
+        <attr name="fi_show_top_line" format="boolean" />
+        <attr name="fi_show_bottom_line" format="boolean" />
+
+        <attr name="fi_top_line_space" format="dimension" />
+        <attr name="fi_bottom_line_space" format="dimension" />
+
+        <attr name="fi_left_icon" format="reference" />
+
+        <attr name="fi_left_icon_size" format="dimension" />
+
+
+
+
+    </declare-styleable>
+</resources>

@@ -1,0 +1,70 @@
+<RelativeLayout
+    android:id="@+id/tb_root"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="50dp">
+
+    <View
+        android:id="@+id/bottom_link"
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_alignParentBottom="true"
+        android:background="@color/link_gray"/>
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="17dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"/>
+    <FrameLayout
+        android:id="@+id/btn_back"
+        android:clickable="true"
+        android:layout_width="50dp"
+        android:layout_height="match_parent">
+        <ImageView
+            android:id="@+id/iv_back"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:background="@drawable/back_left"
+            android:layout_gravity="center"/>
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/right_btn"
+        android:background="@drawable/com_sel_draw_tran_gray"
+        android:clickable="true"
+        android:layout_width="43dp"
+        android:layout_height="match_parent">
+        <ImageView
+            android:id="@+id/right_btn_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"/>
+    </FrameLayout>
+    <TextView
+        android:id="@+id/right_tv"
+        android:layout_width="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:visibility="gone"
+        android:textSize="17sp"
+        android:textColor="@drawable/com_sel_color_app_gray"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:layout_toLeftOf="@+id/right_btn"
+        android:layout_toStartOf="@+id/right_btn"
+        />
+    <TextView
+        android:id="@+id/left_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:visibility="gone"
+        android:textSize="17sp"
+        android:textColor="@drawable/com_sel_color_app_gray"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp" />
+</RelativeLayout>

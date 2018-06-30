@@ -1,0 +1,60 @@
+<resources>
+
+    <dimen name="indicator_right_padding">10dp</dimen>
+    <dimen name="indicator_corner_radius">12dp</dimen>
+    <dimen name="indicator_internal_padding">4dp</dimen>
+    <dimen name="header_footer_left_right_padding">24dp</dimen>
+    <dimen name="header_footer_top_bottom_padding">12dp</dimen>
+
+    <!--md dailog-->
+    <dimen name="action_button_height">32dp</dimen>
+    <dimen name="action_button_text_size">14sp</dimen>
+    <dimen name="action_button_min_width">56dp</dimen>
+    <dimen name="action_button_padding_horizontal">4dp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- dialog -->
+    <dimen name="dialog_padding">17dp</dimen>
+    <dimen name="dialog_text_size">14dp</dimen>
+    <dimen name="dialog_content_min_width">130dp</dimen>
+    <dimen name="dialog_content_max_width">236dp</dimen>
+
+    <dimen name="dialog_side_padding">22dp</dimen>
+    <dimen name="single_dialog_lenght_of_close_button_outsize">11dp</dimen>
+    <dimen name="dialog_msg_text_size">15dp</dimen>
+    <dimen name="dialog_input_text_size">15dp</dimen>
+    <dimen name="dialog_form_text_size">15dp</dimen>
+    <dimen name="dialog_msg_bottom_padding">17dp</dimen>
+    <dimen name="dialog_msg_button_space_in_single">17dp</dimen>
+    <dimen name="dialog_msg_button_space_in_double">33dp</dimen>
+    <dimen name="dialog_common_margin">17dp</dimen>
+    <dimen name="dialog_close_button_edge_len">33dp</dimen>
+    <!-- end dialog -->
+
+    <!-- start toast -->
+    <dimen name="toast_text_padding_left_right">16dp</dimen>
+    <dimen name="toast_text_padding_top">28dp</dimen>
+    <dimen name="toast_text_padding_bottom">22dp</dimen>
+    <dimen name="toast_content_min_width">130dp</dimen>
+    <dimen name="toast_content_min_height">124dp</dimen>
+    <dimen name="toast_content_max_width">236dp</dimen>
+    <dimen name="toast_content_image_max_height">38dp</dimen>
+    <dimen name="toast_content_text_max_width">206dp</dimen>
+    <dimen name="toast_content_text_height">20dp</dimen>
+    <dimen name="toast_text_size">14dp</dimen>
+    <dimen name="toast_text_margin_image">17dp</dimen>
+    <dimen name="toast_image_height">38dp</dimen>
+    <!-- end toast -->
+    <dimen name="btn_radius">4dp</dimen>
+
+
+    <dimen name="normalform_horizontal_space">15dp</dimen>
+
+    <dimen name="toast_y_offset">64dip</dimen>
+
+    <dimen name="ke_radius">4dp</dimen>
+    <dimen name="im_mian_radius">4dp</dimen>
+</resources>

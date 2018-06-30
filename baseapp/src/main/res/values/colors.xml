@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_color">#ddbc81</color>
+    <color name="activity_bg">#f8f8f8</color>
+    <color name="link_gray">#D3D3D3</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+
+    <color name="live_gray">#99333333</color>
+
+    <color name="txt_black">#333333</color>
+    <color name="ninegray">#99999999</color>
+    <color name="transparent">#00000000</color>
+    <color name="whitegray">#d7d7d7</color>
+
+
+    <color name="activity_bg2">#EFEFF4</color>
+
+    <!--md dailog-->
+    <color name="card_background">#ffffff</color>
+    <color name="card_shadow">#10000000</color>
+    <color name="lite_blue">#ff359ff2</color>
+    <color name="window_background">#00000000</color>
+    <color name="black_de">#DE000000</color>
+
+    <!-- 常用颜色值 -->
+    <color name="white40">#40FFFFFF</color>>
+    <color name="gray">#808080</color>
+    <color name="red">#FF0000</color>
+    <color name="gold">#FFD700</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="green">#008000</color>
+    <color name="purple">#800080</color>
+    <color name="pink">#FFC0CB</color>
+    <color name="lemonyellow">#FFFACD</color>
+    <color name="graywhite">#F5F5F5</color>
+    <color name="grayslate">#708090</color>
+    <color name="lightblue">#0083FF</color>
+
+    <color name="main_green">#40AA53</color>
+    <color name="main_gray">#9A9A9A</color>
+    <color name="main_black">#333</color>
+    <color name="main_purple">#576B95</color>
+    <!-- 淡灰色 -->
+    <color name="thingray">#ffeeeeee</color>
+    <color name="trathreeblack">#33333333</color>
+    <color name="app_blue">#0076C0</color>
+
+    <color name="app_green">#21cf73</color>
+    <color name="white_gray">#d7d7d7</color>
+    <color name="app_pink">#FFded5</color>
+    <!--<color name="ke_bg">#576B95</color>-->
+    <color name="ke_bg">#393a3b</color>
+
+</resources>

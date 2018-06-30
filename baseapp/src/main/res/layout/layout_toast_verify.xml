@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/shape_99000000_with_corner_rectangle"
+    android:gravity="center"
+    android:minHeight="@dimen/toast_content_min_height"
+    android:minWidth="@dimen/toast_content_min_width"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/toast_text_padding_bottom"
+    android:paddingLeft="@dimen/toast_text_padding_left_right"
+    android:paddingRight="@dimen/toast_text_padding_left_right"
+    android:paddingTop="@dimen/toast_text_padding_top">
+
+
+    <ImageView
+        android:id="@+id/img_logo"
+        android:layout_width="@dimen/toast_image_height"
+        android:layout_height="@dimen/toast_image_height"
+        android:maxHeight="@dimen/toast_content_image_max_height"
+        android:src="@drawable/tips_negative" />
+
+    <TextView
+        android:id="@+id/txt_tip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_marginTop="@dimen/toast_text_margin_image"
+        android:gravity="center"
+        android:maxWidth="@dimen/toast_content_text_max_width"
+
+        android:minHeight="@dimen/toast_content_text_height"
+        android:text=""
+        android:textColor="#FFFFFFFF"
+        android:textSize="@dimen/toast_text_size" />
+
+
+</LinearLayout>
