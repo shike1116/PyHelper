@@ -1,3 +1,4 @@
+package com.mao.baseapp.update;
 
 import com.mao.baseapp.common.net.rest.BaseModel;
 import com.mao.baseapp.common.net.rest.BizListener;
